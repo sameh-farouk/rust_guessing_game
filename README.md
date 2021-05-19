@@ -86,7 +86,6 @@ $ cargo run
     Finished dev [unoptimized + debuginfo] target(s) in 4.45s
      Running `target/debug/guessing_game`
 Guess the number!
-The secret number is: 61
 Please input your guess.
 10
 You guessed: 10
